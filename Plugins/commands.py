@@ -24,10 +24,13 @@ start_button=InlineKeyboardMarkup(
                   InlineKeyboardButton("🤖Status", callback_data = "status_data")
               ], 
               [
+                  InlineKeyboardButton("🖥️How To Own🖥️", url="https://youtu.be/p4Z9ZN1lZUk")
+              ],
+              [
                   InlineKeyboardButton("💡help", callback_data = "help_data"),
                   InlineKeyboardButton("📕About", callback_data = "about_data"),
                   InlineKeyboardButton("🔐Close", callback_data = "close_data")
-              ] 
+              ]
         ]
 )
 
@@ -162,6 +165,9 @@ async def button(bot, cmd: CallbackQuery):
                          InlineKeyboardButton("📃Bot List", url="https://t.me/Mo_Tech_YT/176"),
                          InlineKeyboardButton("🤖Status", callback_data = "status_data")
                        ], 
+                       [
+                         InlineKeyboardButton("🖥️How To Own🖥️", url="https://youtu.be/p4Z9ZN1lZUk")
+                       ],
                        [
                          InlineKeyboardButton("💡help", callback_data = "help_data"),
                          InlineKeyboardButton("📕About", callback_data = "about_data"),
