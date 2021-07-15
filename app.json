@@ -7,9 +7,9 @@
     "auto",
     "caption" 
   ],
-  "success_url": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "website": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
-  "repository": "https://github.com/Ts-Bots/AutoCaption-Ts_Bot-Clone",
+  "success_url": "https://youtu.be/p4Z9ZN1lZUk",
+  "website": "https://youtu.be/p4Z9ZN1lZUk",
+  "repository": "https://github.com/MRK-YT/MT-AutoCaption",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
@@ -21,15 +21,15 @@
       "value": ""
     },
     "APP_ID": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value from https://my.telegram.org or @MT_MyTelegramOrg_Bot",
       "value": ""
     },
     "ADMIN_ID": {
-      "description": "Your user ID like 1223445566",
+      "description": "Your user ID like 1223445566 @MT_ID_BOT",
       "value": ""      
     },
     "CAPTION_POSITION": {
