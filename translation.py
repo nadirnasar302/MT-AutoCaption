@@ -28,8 +28,8 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 👉 Forward your files in your channel and I will edit it
 
-<b><a href="https://t.me/Mo_Tech_YT">©️ Mo Tech YT</a></b>
-"""    
+<b><a href="https://t.me/Cinemafactroy1">©️ Mo Tech YT</a></b>
+"""   
               
 
      
@@ -57,7 +57,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
 
-<b><a href="https://t.me/Mo_Tech_YT">©️ Mo Tech YT</a></b>
+<b><a href="https://t.me/Mo_Tech_YT">©️ Cinema Factory</a></b>
 """
 
       MARKDOWN_TEXT = """
